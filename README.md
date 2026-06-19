@@ -1,3 +1,15 @@
+---
+title: Retail Demand Forecasting & Price Optimization
+emoji: 📈
+colorFrom: green
+colorTo: blue
+sdk: streamlit
+sdk_version: 1.58.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
 # 📈 Retail Demand Forecasting & Price Optimization Platform
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue.svg?style=flat-square&logo=python)](https://www.python.org/)
