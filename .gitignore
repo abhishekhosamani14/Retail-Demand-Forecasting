@@ -32,11 +32,7 @@ env/
 .ipynb_checkpoints/
 
 # Project Specific Data & Model binaries
-# We keep generate_data.py and train_model.py in git, but ignore the output csvs, images, and pkls to keep repo light
-data/train.csv
-data/sample_data.csv
-models/xgboost_model.pkl
-models/scaler.pkl
+# Exclude static images/ folder. The train.csv and trained models are tracked so HF Spaces can load them.
 images/
 
 # IDEs
